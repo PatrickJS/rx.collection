@@ -17,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/gdi2290/rx.collection/issues"
   },
-  "homepage": "https://github.com/gdi2290/rx.collection"
+  "homepage": "https://github.com/gdi2290/rx.collection",
+  "devDependencies": {
+    "gulp-traceur": "^0.8.0",
+    "gulp": "^3.8.6"
+  },
+  "dependencies": {
+  }
 }
